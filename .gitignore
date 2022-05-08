@@ -1,0 +1,37 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.log
+
+# xcode related
+MembershipProtocol.xcodeproj/project.xcworkspace/xcuserdata/msharma.xcuserdatad/UserInterfaceState.xcuserstate
+MembershipProtocol.xcodeproj/project.xcworkspace/xcuserdata/
+MembershipProtocol.xcodeproj/xcuserdata/msharma.xcuserdatad/xcdebugger/
+.DS_Store
+Application
